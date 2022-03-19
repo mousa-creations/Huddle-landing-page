@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap");
+
+:root {
+  --main-color: #674baf;
+  --scondary-color: #e882e8;
+  --white-color: #fff;
+}
+
+body {
+  background-image: url(/images/bg-desktop.svg);
+  background-color: var(--main-color);
+  height: 80vh;
+  width: 100%;
+}
+
+.Heading {
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 600;
+}
+
+.body-txt {
+  font-family: "Open Sans", sans-serif !important;
+}
+/* Start Button */
+.btn {
+  color: var(--main-color);
+}
+
+.btn:hover {
+  background-color: var(--scondary-color);
+  color: var(--white-color);
+}
+/* End Button */
+.social svg {
+  width: 20px;
+  height: 20px;
+}
+/* Start Social Icons */
+.rounded-circle:hover {
+  border: 1px solid var(--scondary-color) !important;
+}
+
+.social svg:hover {
+  color: var(--scondary-color);
+}
+/* End Social Icons */
+/* Start Footer */
+.atrr {
+  color: var(--scondary-color);
+}
+/* End Footer */
