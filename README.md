@@ -46,7 +46,9 @@ Users should be able to:
 
 ### Continued development
 
-I developed this landing page using HTML, CSS, and the awesome toolkit framework Bootstrap. I'm proud that is my first project using updated Bootstrap 5.1. It took more time to learn Bootstrap, and I hope it will be a great launch for bigger projects soon.
+This landing page was created with HTML, CSS, and the Bootstrap toolkit framework. This is my first project utilising updated Bootstrap 5.1, and I'm proud of it. It took me longer to learn Bootstrap, and I'm hoping that it will be a wonderful launch for larger projects in the near future.
+I began by creating this design in bootstrap and CSS, which allows me to customise the layout of my main section landing page. The landing page's primary part is significant because it depicts communities.
+As you engage in actual interaction with your users, you'll be able to form bonds with them.
 
 
 ### Useful resources
